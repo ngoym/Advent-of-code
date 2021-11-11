@@ -1,5 +1,4 @@
-import os
-
+# Day one of advent of code 2020
 def read_input(file):
     a = []
     with open(file,'r') as F:
